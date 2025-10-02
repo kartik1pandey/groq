@@ -1,0 +1,12 @@
+[theme]
+primaryColor = "#10B981"  # Emerald green for sustainability
+backgroundColor = "#F9FAFB"  # Light gray
+secondaryBackgroundColor = "#E5E7EB"
+textColor = "#111827"
+
+[server]
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
